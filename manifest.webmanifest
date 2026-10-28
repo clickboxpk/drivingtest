@@ -1,0 +1,19 @@
+{
+  "name": "PSDC Driving Test Portal",
+  "short_name": "PSDC Driving Test",
+  "description": "Online driving license theory test for Rawalpindi: 50-question traffic signs and road rules MCQs in Urdu & English, practice papers, and Punjab Traffic Police highway code books.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "lang": "en"
+}
