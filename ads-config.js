@@ -47,8 +47,8 @@ window.PSDC_ADS = {
     'width' : 300,
     'params' : {}
   };
-</script>
-<script src="https://bauval.org/22/c138d5d4c03c3d3c45007c0a9a674f64"></script>` },
+<\/script>
+<script src="https://bauval.org/22/c138d5d4c03c3d3c45007c0a9a674f64"><\/script>` },
   books_side:   { width: 160, height: 600, code: `<script>
   atOptions = {
     'key' : '3a55ae5b5fb91f66d9493db67e7adc92',
@@ -57,6 +57,6 @@ window.PSDC_ADS = {
     'width' : 160,
     'params' : {}
   };
-</script>
-<script src="https://bauval.org/22/3a55ae5b5fb91f66d9493db67e7adc92"></script>`, minViewportW: 1320, minViewportH: 780, avoid: '.sheet,.tab' }
+<\/script>
+<script src="https://bauval.org/22/3a55ae5b5fb91f66d9493db67e7adc92"><\/script>`, minViewportW: 1320, minViewportH: 780, avoid: '.sheet,.tab' }
 };
