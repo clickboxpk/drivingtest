@@ -16,7 +16,7 @@
    Do NOT add Popunder or floating Social Bar codes - they disturb students.
    ========================================================== */
 window.PSDC_ADS_ON = true;       // <- set to true after pasting the codes
-window.PSDC_ADS_SANDBOX = true;   // keeps ad code from redirecting the page. If ads show blank on the live site, try false.
+window.PSDC_ADS_SANDBOX = false;   // keeps ad code from redirecting the page. If ads show blank on the live site, try false.
 
 window.PSDC_ADS = {
   home_bottom:  { width: 300, height: 250, code: `c138d5d4c03c3d3c45007c0a9a674f64` },
