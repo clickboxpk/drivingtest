@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://clickboxpk.github.io/drivingtest/sitemap.xml
